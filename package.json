@@ -10,12 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/ru-lai/walk-the-file.git"
   },
-  "ava": {
-    "require": [
-      "babel-register"
-    ],
-    "babel": "inherit"
-  },
   "devDependencies": {
     "ava": "^0.22.0"
   },
