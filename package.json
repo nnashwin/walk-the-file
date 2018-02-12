@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "test": "ava"
+  },
+  "name": "walk-the-file",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ru-lai/walk-the-file.git"
+  },
+  "ava": {
+    "require": [
+      "babel-register"
+    ],
+    "babel": "inherit"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ru-lai/walk-the-file/issues"
+  },
+  "homepage": "https://github.com/ru-lai/walk-the-file#readme"
+}
