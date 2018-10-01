@@ -4,5 +4,20 @@
   },
   "devDependencies": {
     "ava": "1.0.0-beta.4"
-  }
+  },
+  "name": "walk-the-file",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ru-lai/walk-the-file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ru-lai/walk-the-file/issues"
+  },
+  "homepage": "https://github.com/ru-lai/walk-the-file#readme"
 }
