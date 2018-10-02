@@ -1,21 +1,33 @@
 {
-  "scripts": {
-    "test": "ava"
-  },
-  "devDependencies": {
-    "ava": "1.0.0-beta.4"
-  },
   "name": "walk-the-file",
-  "description": "",
-  "version": "1.0.0",
+  "description": "Find first occurrence of a file in filedir",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ru-lai/walk-the-file.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "*"
+  },
+  "keywords": [
+	"Walk dir",
+	"directory",
+	"traverse",
+	"breadth",
+	"search",
+	"path",
+	"Find the path"
+  ],
+  "author": {
+	"name": "Tyler Boright",
+	"email": "ru.lai.development@gmail.com",
+	"url": "https://github.com/ru-lai"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ru-lai/walk-the-file/issues"
   },
